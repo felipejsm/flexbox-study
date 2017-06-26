@@ -1,0 +1,8 @@
+.main {
+    display: -webkit-flex;
+    display: flex;
+}
+.main div {
+    background: #CCC;
+    margin-right: 10px;
+}
